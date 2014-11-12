@@ -1,6 +1,7 @@
 encoding:       utf-8
 markdown:       redcarpet
 permalink:      pretty
+baseurl: /vimconf
 
 gems:
   - jekyll-sitemap
