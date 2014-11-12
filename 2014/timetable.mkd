@@ -4,7 +4,7 @@ title: Timetable
 
 ---
 
-You can see slides and Youtube videos at [Reports]({{site.data.2014.root}}/reports) page
+You can see slides and Youtube videos at [Reports]({{site.baseurl}}{{site.data.2014.root}}/reports) page
 
 時間          | 発表者               | 内容
 ------------- | -------------------- | -------------------------------------------------------- {% for d in site.data.2014.timetable %}
